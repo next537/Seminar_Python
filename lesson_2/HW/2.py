@@ -5,7 +5,7 @@
 # - 6 -> [1, 2, 6, 24, 120, 720]
 
 
-n = int(input("Введите N - "))
+n = int(input("Введите n - "))
 list = []
 a = 1
 for i in range(n):
